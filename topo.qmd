@@ -620,7 +620,7 @@ plot!(Msplot, (0 .* Msplot),
     - when $M<\overline{M_S}$ trajectories converge to either 0 or $E_2^*$
 
 
-## Numerical experiments
+<!-- ## Numerical experiments -->
 
 ```{julia}
 using DifferentialEquations, StaticArrays, DataFrames
@@ -669,14 +669,12 @@ end
 
 
 ```{julia}
-#| output: true
 η0 
 
 ```
 
 
 ```{julia}
-#| output: true
 sim_SIT = int_SIT(model_SIT, state0, tspan, params_SIT, step)
 
 state02 = @SVector [700., 0., 0., 0.]
