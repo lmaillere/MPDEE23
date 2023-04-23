@@ -821,10 +821,9 @@ $$
 
 ![](figs/intro_pattern.svg){.absolute left=100 top=380 width=850}
 
-## Numerical experiments: pulses
+<!-- ## Numerical experiments: pulses -->
 
 ```{julia}
-#| output: true
 function model_SIT_Ms(u, params, t)
     β, K, v_L, μ_L, m, μ_M, v_F, μ_F, M_S = params 	# unpacking parameters
 
@@ -914,9 +913,9 @@ plot(sol_pulse.time, [sol_pulse.L sol_pulse.M sol_pulse.V sol_pulse.F sol_pulse.
 
 ```
 
-## Numerical experiments (pulses)
+## Numerical experiments: pulses
 
-- which introduction strategy works best ? (release late)
+- which introduction strategy works best: late introductions situation
 
 ```{julia}
 #| output: true
@@ -963,7 +962,7 @@ plot(alpharange, [maxLT[:, i] for i in 1:ncol(maxLT)],
 
 ## Numerical experiments (pulses)
 
-- which introduction strategy works best ? (release early)
+- which introduction strategy works best: early introduction situations
 
 ```{julia}
 #| output: true
@@ -1005,6 +1004,8 @@ plot(alpharange, [maxLT2[:, i] for i in 1:ncol(maxLT2)],
 - strategy
     - same results wrt $T$ if larvae or mated females invade (but much larger release rates are required in that former case)
     - same results with other proxy of damage as $\int L(\tau)d\tau$
+    - early introductions, and if not possible, introductions small and frequent
+    - use preventive releases
 
 
 . . . 

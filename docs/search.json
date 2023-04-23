@@ -186,21 +186,21 @@
     "href": "topo.html#model-with-pulsed-m_s-introductions",
     "title": "topo",
     "section": "Model with pulsed \\(M_s\\) introductions",
-    "text": "Model with pulsed \\(M_s\\) introductions\n\nsame equations as before, but \\(M_s\\) is dynamic\n\n\\[\n\\left\\{\\begin{array}{ll}\n\\dot M_s = -\\mu_M M_s & \\forall t\\in(kT, (k+1)T)\\\\\nM_s(kT^+) = M_s(kT) + \\sigma T\n\\end{array}\\right.\n\\]\n\n\nclassical trick to compare different introduction regimes for a given introduction rate \\(\\sigma\\) 1\n\n\n\nMailleret & Grognard, 2009"
+    "text": "Model with pulsed \\(M_s\\) introductions\n\nsame equations as before, but \\(M_s\\) is dynamic\n\n\\[\n\\left\\{\\begin{array}{ll}\n\\dot M_s = -\\mu_M M_s & \\forall t\\in(kT, (k+1)T)\\\\\nM_s(kT^+) = M_s(kT) + \\sigma T\n\\end{array}\\right.\n\\]\n\n\nclassical trick to compare different introduction regimes for a given introduction rate \\(\\sigma\\) 1\n\n\n\n\nMailleret & Grognard, 2009"
   },
   {
     "objectID": "topo.html#numerical-experiments-pulses",
     "href": "topo.html#numerical-experiments-pulses",
     "title": "topo",
     "section": "Numerical experiments: pulses",
-    "text": "Numerical experiments: pulses"
+    "text": "Numerical experiments: pulses\n\nwhich introduction strategy works best: late introductions situation"
   },
   {
     "objectID": "topo.html#numerical-experiments-pulses-1",
     "href": "topo.html#numerical-experiments-pulses-1",
     "title": "topo",
     "section": "Numerical experiments (pulses)",
-    "text": "Numerical experiments (pulses)\n\nwhich introduction strategy works best ? (release late)"
+    "text": "Numerical experiments (pulses)\n\nwhich introduction strategy works best: early introduction situations"
   },
   {
     "objectID": "topo.html#numerical-experiments-pulses-2",
@@ -214,7 +214,7 @@
     "href": "topo.html#conclusion",
     "title": "topo",
     "section": "Conclusion",
-    "text": "Conclusion\n\nSIT rocks\nimportance of larvae compartment\n\ndynamics are very different regarding the initial condition\nlarvae density (damage) not well correlated with total population size\n\nstrategy\n\nsame results wrt \\(T\\) if larvae or mated females invade (but much larger release rates are required in that former case)\nsame results with other proxy of damage as \\(\\int L(\\tau)d\\tau\\)\n\n\n\n\nDo you wonder what happens if sterile males are not that sterile ?\nMarine will show you more on wednesday morning"
+    "text": "Conclusion\n\nSIT rocks\nimportance of larvae compartment\n\ndynamics are very different regarding the initial condition\nlarvae density (damage) not well correlated with total population size\n\nstrategy\n\nsame results wrt \\(T\\) if larvae or mated females invade (but much larger release rates are required in that former case)\nsame results with other proxy of damage as \\(\\int L(\\tau)d\\tau\\)\nearly introductions, and if not possible, introductions small and frequent\nuse preventive releases\n\n\n\n\nDo you wonder what happens if sterile males are not that sterile ?\nMarine will show you more on wednesday morning"
   },
   {
     "objectID": "topo.html#thank-you",
