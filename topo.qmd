@@ -1,6 +1,7 @@
 ---
 format:
   revealjs:
+    transition: fade
     slide-number: true
     smaller: true
     scrollable: true
@@ -84,16 +85,16 @@ from: markdown+emoji
 
 . . .
 
-<br><br><br><br>
+<br><br><br>
 
 <!-- ![](figs/sdgs.png){.absolute right=50 top=280 height=200} -->
 
-![](figs/sdg-wheel.png){.absolute right=20 top=370 height=220}
+![](figs/sdg-wheel.png){.absolute right=20 top=350 height=220}
 
 - alternative eco-friendly control means include
     - crop sanitation, mass trapping
-    - biological control
-    - sterile insect technique (developed worldwide for *C. capitata*, in R&D for *D. suzukii*)
+    - biological control through natural enemies
+    - taking advantage of sexual mode of reproduction through the sterile insect technique 
 
 
 
@@ -103,7 +104,7 @@ from: markdown+emoji
 ## Sterile Insect Technique (SIT)
 
 - flood agricultural plots with factory produced sterilized males 
-    - prevent matings between *wild male* and *wild females*
+    - prevent matings between *wild males* and *wild females*
     <!-- - *sterilized males* and *wild females* mates do not produce offspring -->
 
 . . . 
@@ -118,11 +119,11 @@ SIT is like a football game with so many people on the ground <br>you simply can
 
 ## Outline
 
-- model SIT in an agricultural context relevant to fruit flies
+- SIT model in an agricultural context relevant to fruit flies
 
 . . . 
 
-- access to reliable estimates of crop damage
+- access to reliable estimates of crop damage caused by the larvae
 
 . . . 
 
@@ -617,7 +618,7 @@ plot!(Msplot, (0 .* Msplot),
 
 - thanks to the cooperativity of the model
     - when $M_S > \overline{M_S}$, 0 equilibrium is GAS
-    - when $M<\overline{M_S}$ trajectories converge to either 0 or $E_2^*$
+    - when $M_S<\overline{M_S}$ trajectories converge to either 0 or $E_2^*$
 
 
 <!-- ## Numerical experiments -->

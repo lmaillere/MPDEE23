@@ -11,21 +11,21 @@
     "href": "topo.html#fruit-flies-control",
     "title": "topo",
     "section": "Fruit flies control",
-    "text": "Fruit flies control\n\ncontrol of fruit flies has long relied on chemicals\n\nsustainability and health issues\ndevelopment of resistant flies\nmore stringent state regulations (EU)\n\n\n\n\n\n\n\n\nalternative eco-friendly control means include\n\ncrop sanitation, mass trapping\nbiological control\nsterile insect technique (developed worldwide for C. capitata, in R&D for D. suzukii)"
+    "text": "Fruit flies control\n\ncontrol of fruit flies has long relied on chemicals\n\nsustainability and health issues\ndevelopment of resistant flies\nmore stringent state regulations (EU)\n\n\n\n\n\n\n\n\nalternative eco-friendly control means include\n\ncrop sanitation, mass trapping\nbiological control through natural enemies\ntaking advantage of sexual mode of reproduction through the sterile insect technique"
   },
   {
     "objectID": "topo.html#sterile-insect-technique-sit",
     "href": "topo.html#sterile-insect-technique-sit",
     "title": "topo",
     "section": "Sterile Insect Technique (SIT)",
-    "text": "Sterile Insect Technique (SIT)\n\nflood agricultural plots with factory produced sterilized males\n\nprevent matings between wild male and wild females \n\n\n\n \n\nSIT is like a football game with so many people on the ground you simply cannot find your teammates 1\n\n\nNick Secomb, General Manager of the Fruit Fly Response Program in Australia"
+    "text": "Sterile Insect Technique (SIT)\n\nflood agricultural plots with factory produced sterilized males\n\nprevent matings between wild males and wild females \n\n\n\n \n\nSIT is like a football game with so many people on the ground you simply cannot find your teammates 1\n\n\nNick Secomb, General Manager of the Fruit Fly Response Program in Australia"
   },
   {
     "objectID": "topo.html#outline",
     "href": "topo.html#outline",
     "title": "topo",
     "section": "Outline",
-    "text": "Outline\n\nmodel SIT in an agricultural context relevant to fruit flies\n\n\n\naccess to reliable estimates of crop damage\n\n\n\n\nanalyze influence of sterile male introductions on model dynamics and damage levels\n\n\n\n\nstudy if and how sterile male pattern of introduction can be optimized"
+    "text": "Outline\n\nSIT model in an agricultural context relevant to fruit flies\n\n\n\naccess to reliable estimates of crop damage caused by the larvae\n\n\n\n\nanalyze influence of sterile male introductions on model dynamics and damage levels\n\n\n\n\nstudy if and how sterile male pattern of introduction can be optimized"
   },
   {
     "objectID": "topo.html#fruit-flies-life-cycle",
@@ -137,7 +137,7 @@
     "href": "topo.html#bifurcation-diagram",
     "title": "topo",
     "section": "Bifurcation diagram",
-    "text": "Bifurcation diagram\n\n\nthanks to the cooperativity of the model\n\nwhen \\(M_S > \\overline{M_S}\\), 0 equilibrium is GAS\nwhen \\(M<\\overline{M_S}\\) trajectories converge to either 0 or \\(E_2^*\\)"
+    "text": "Bifurcation diagram\n\n\nthanks to the cooperativity of the model\n\nwhen \\(M_S > \\overline{M_S}\\), 0 equilibrium is GAS\nwhen \\(M_S<\\overline{M_S}\\) trajectories converge to either 0 or \\(E_2^*\\)"
   },
   {
     "objectID": "topo.html#numerical-experiments",
