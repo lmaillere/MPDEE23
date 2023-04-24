@@ -192,7 +192,7 @@ $$
 
 ## Population dynamics model
 
-$$
+$$\small
 \left\{\begin{array}{l}
 \dot L = r \left(1-\frac{L}{K}\right)F - v_L L -\mu_L L\\
 \dot M =  p v_L L - \mu_M M\\
@@ -204,7 +204,7 @@ $$
 . . . 
 
 - in an agricultural context, the insect pest settles in crops at high densities s.t. 
-$$
+$$\scriptsize 
 \eta_0 = \frac {r\,(1-p) v_L v_F}{\mu_F (\mu_F + v_F)(\mu_L + v_L)} > 1
 $$
 
@@ -290,7 +290,7 @@ $$
 
 - and, using (i), (ii) and (iii) in (iv), other equilibria must verify
 
-$$
+$$\small
 \frac{v_L+\mu_L}{r\left(1-\frac{L}{K}\right)} = \frac{v_F}{\mu_F}\frac{\frac{pv_L}{\mu_M} L}{\frac{pv_L}{\mu_M} L+M_s}\frac{(1-p) v_L}{v_F+\mu_F} 
 $$
 
@@ -515,7 +515,7 @@ $$
 ## Stability of $E^*_i$
 
 - further computations show
-$$\small
+$$\scriptsize
 D-CA^{-1} B = \left(\begin{array}{cc}
 -(\mu_F+v_F) & \frac{\mu_F(\mu_F+v_F)\left(1-\frac{L^*}{K}\right)\left(\frac{p v_L}{\mu_M}L^*+M_s\right)}{v_F \frac{p v_L}{\mu_M} L^*}\\
 \frac{v_F\frac{p v_L}{\mu_M} L^*}{\frac{p v_L}{\mu_M} L^*+M_s} &
@@ -995,7 +995,9 @@ plot(alpharange, [maxLT2[:, i] for i in 1:ncol(maxLT2)],
 
 ## Conclusion
 
-- SIT rocks
+- sex- and stage- structured model of Anguelov *et alii* in a SIT context
+    - complete study
+    -  Metzler matrices and cooperativity studies
 
 - importance of larvae compartment
     - dynamics are very different regarding the initial condition 
