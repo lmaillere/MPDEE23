@@ -961,7 +961,7 @@ plot(alpharange, [maxLT[:, i] for i in 1:ncol(maxLT)],
 
 ```
 
-## Numerical experiments (pulses)
+## Numerical experiments: pulses
 
 - which introduction strategy works best: early introduction situations
 
