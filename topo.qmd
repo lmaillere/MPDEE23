@@ -1,7 +1,6 @@
 ---
 format:
   revealjs:
-    transition: fade
     slide-number: true
     smaller: true
     scrollable: true
@@ -793,6 +792,8 @@ plot(p1, p2, p3, p4, layout=(2,2), formatter=Returns(""),
 
 
 - total population not a very good proxy for larvae population / crop damage
+
+. . .
 
 ```{julia}
 #| output: true
