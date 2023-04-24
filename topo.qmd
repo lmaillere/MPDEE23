@@ -819,7 +819,7 @@ $$
 
 . . . 
 
-- classical trick to compare different introduction regimes for a given introduction rate $\sigma$ ^[Mailleret & Grognard, 2009]
+- classical trick to compare different introduction regimes for given introduction rate $\sigma$ ^[Mailleret & Grognard, 2009]
 
 ![](figs/intro_pattern.svg){.absolute left=100 top=380 width=850}
 
@@ -1006,7 +1006,6 @@ plot(alpharange, [maxLT2[:, i] for i in 1:ncol(maxLT2)],
 - showed importance of stage-structure consideration
     - dynamics are very different depending on initial condition 
     - larvae density (damage) poorly correlates with total population size
-    - GAS is not always to be trusted
 
 . . .
 
@@ -1020,7 +1019,7 @@ plot(alpharange, [maxLT2[:, i] for i in 1:ncol(maxLT2)],
 
 - quantify basins of attraction in the bistable cases
 
-
+. . .
 
 - account for multiple female matings in the model
 
@@ -1044,10 +1043,10 @@ Marine Courtois will give insights on this topic wednesday at 11 AM
 
 . . . 
 
-![](figs/waldo2.svg){.absolute left=50 top=190 width=850}
+![](figs/waldo2.svg){.absolute left=50 top=150 width=850}
 
-![](figs/where.svg){.absolute right=50 top=190 height=150}
+![](figs/where.svg){.absolute right=50 top=150 height=150}
 
 . . . 
 
-![](figs/waldohere.svg){.absolute left=50 top=190 width=850}
+![](figs/waldohere.svg){.absolute left=50 top=150 width=850}

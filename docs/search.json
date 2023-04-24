@@ -186,7 +186,7 @@
     "href": "topo.html#model-with-pulsed-m_s-introductions",
     "title": "topo",
     "section": "Model with pulsed \\(M_s\\) introductions",
-    "text": "Model with pulsed \\(M_s\\) introductions\n\nsame equations as before, but \\(M_s\\) is dynamic\n\n\\[\n\\left\\{\\begin{array}{ll}\n\\dot M_s = -\\mu_M M_s & \\forall t\\in(kT, (k+1)T)\\\\\nM_s(kT^+) = M_s(kT) + \\sigma T\n\\end{array}\\right.\n\\]\n\n\nclassical trick to compare different introduction regimes for a given introduction rate \\(\\sigma\\) 1\n\n\n\n\nMailleret & Grognard, 2009"
+    "text": "Model with pulsed \\(M_s\\) introductions\n\nsame equations as before, but \\(M_s\\) is dynamic\n\n\\[\n\\left\\{\\begin{array}{ll}\n\\dot M_s = -\\mu_M M_s & \\forall t\\in(kT, (k+1)T)\\\\\nM_s(kT^+) = M_s(kT) + \\sigma T\n\\end{array}\\right.\n\\]\n\n\nclassical trick to compare different introduction regimes for given introduction rate \\(\\sigma\\) 1\n\n\n\n\nMailleret & Grognard, 2009"
   },
   {
     "objectID": "topo.html#numerical-experiments-pulses",
@@ -214,7 +214,7 @@
     "href": "topo.html#conclusion",
     "title": "topo",
     "section": "Conclusion",
-    "text": "Conclusion\n\nsex- and stage- structured model of Anguelov et alii in a SIT context\n\nquite thorough mathematical analysis\nMetzler matrices and cooperativity tools\n\n\n\n\nshowed importance of stage-structure consideration\n\ndynamics are very different depending on initial condition\nlarvae density (damage) poorly correlates with total population size\nGAS is not always to be trusted\n\n\n\n\n\nintroduction strategy\n\ntiming is the essence\n\nearly, and not late introductions\nif not possible, small and frequent introductions perform best by far\n\n\nSIT most efficient in a preventive context"
+    "text": "Conclusion\n\nsex- and stage- structured model of Anguelov et alii in a SIT context\n\nquite thorough mathematical analysis\nMetzler matrices and cooperativity tools\n\n\n\n\nshowed importance of stage-structure consideration\n\ndynamics are very different depending on initial condition\nlarvae density (damage) poorly correlates with total population size\n\n\n\n\n\nintroduction strategy\n\ntiming is the essence\n\nearly, and not late introductions\nif not possible, small and frequent introductions perform best by far\n\n\nSIT most efficient in a preventive context"
   },
   {
     "objectID": "topo.html#thank-you",
@@ -228,7 +228,7 @@
     "href": "topo.html#perspectives",
     "title": "topo",
     "section": "Perspectives",
-    "text": "Perspectives\n\nquantify basins of attraction in the bistable cases\naccount for multiple female matings in the model\n\n\n\nprovide mathematical grounds for the results on \\(T\\) / introduction strategies\n\n\n\n\nadress complementary questions of biological interest, e.g.\n\nwhat happens if sterile males are not that sterile?\n\n\n\nMarine Courtois will give insights on this topic wednesday at 11 AM"
+    "text": "Perspectives\n\nquantify basins of attraction in the bistable cases\n\n\n\naccount for multiple female matings in the model\n\n\n\n\nprovide mathematical grounds for the results on \\(T\\) / introduction strategies\n\n\n\n\nadress complementary questions of biological interest, e.g.\n\nwhat happens if sterile males are not that sterile?\n\n\n\nMarine Courtois will give insights on this topic wednesday at 11 AM"
   },
   {
     "objectID": "topo.html#perspectives-work-in-progress",
