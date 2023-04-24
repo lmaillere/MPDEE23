@@ -214,7 +214,7 @@
     "href": "topo.html#conclusion",
     "title": "topo",
     "section": "Conclusion",
-    "text": "Conclusion\n\nsex- and stage- structured model of Anguelov et alii in a SIT context\n\ncomplete study\nMetzler matrices and cooperativity studies\n\nimportance of larvae compartment\n\ndynamics are very different regarding the initial condition\nlarvae density (damage) not well correlated with total population size\n\nstrategy\n\nsame results wrt \\(T\\) if larvae or mated females invade (but much larger release rates are required in that former case)\nsame results with other proxy of damage as \\(\\int L(\\tau)d\\tau\\)\nearly introductions, and if not possible, introductions small and frequent\nuse preventive releases\n\n\n\n\nDo you wonder what happens if sterile males are not that sterile ?\nMarine will show you more on wednesday morning"
+    "text": "Conclusion\n\nsex- and stage- structured model of Anguelov et alii in a SIT context\n\nquite thorough mathematical analysis\nMetzler matrices and cooperativity tools\n\n\n\n\nshowed importance of stage-structure consideration\n\ndynamics are very different depending on initial condition\nlarvae density (damage) poorly correlates with total population size\nGAS is not always to be trusted\n\n\n\n\n\nintroduction strategy\n\ntiming is the essence\n\nearly, and not late introductions\nif not possible, small and frequent introductions perform best by far\n\n\nSIT most efficient in a preventive context"
   },
   {
     "objectID": "topo.html#thank-you",
@@ -222,5 +222,19 @@
     "title": "topo",
     "section": "Thank you",
     "text": "Thank you\n\n\n\n\n\n\n\n\nSex- and stage-structured SIT model - MPDEE 2023 Marseille"
+  },
+  {
+    "objectID": "topo.html#perspectives",
+    "href": "topo.html#perspectives",
+    "title": "topo",
+    "section": "Perspectives",
+    "text": "Perspectives\n\nquantify basins of attraction in the bistable cases\naccount for multiple female matings in the model\n\n\n\nprovide mathematical grounds for the results on \\(T\\) / introduction strategies\n\n\n\n\nadress complementary questions of biological interest, e.g.\n\nwhat happens if sterile males are not that sterile?\n\n\n\nMarine Courtois will give insights on this topic wednesday at 11 AM"
+  },
+  {
+    "objectID": "topo.html#perspectives-work-in-progress",
+    "href": "topo.html#perspectives-work-in-progress",
+    "title": "topo",
+    "section": "Perspectives / work in progress",
+    "text": "Perspectives / work in progress\n\nquantify basins of attraction in the bistable cases\naccount for multiple female matings in the model\n\n\n\nprovide mathematical grounds for the results on introduction strategies\n\n\n\n\nadress complementary questions of biological interest, e.g.\n\nwhat happens if sterile males are not that sterile?\n\n\n\nMarine will give insights on this topic wednesday morning"
   }
 ]

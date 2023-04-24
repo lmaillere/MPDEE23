@@ -996,25 +996,46 @@ plot(alpharange, [maxLT2[:, i] for i in 1:ncol(maxLT2)],
 ## Conclusion
 
 - sex- and stage- structured model of Anguelov *et alii* in a SIT context
-    - complete study
-    -  Metzler matrices and cooperativity studies
+    - quite thorough mathematical analysis
+    - Metzler matrices and cooperativity tools
 
-- importance of larvae compartment
-    - dynamics are very different regarding the initial condition 
-    - larvae density (damage) not well correlated with total population size
+. . .
 
-- strategy
-    - same results wrt $T$ if larvae or mated females invade (but much larger release rates are required in that former case)
-    - same results with other proxy of damage as $\int L(\tau)d\tau$
-    - early introductions, and if not possible, introductions small and frequent
-    - use preventive releases
+- showed importance of stage-structure consideration
+    - dynamics are very different depending on initial condition 
+    - larvae density (damage) poorly correlates with total population size
+    - GAS is not always to be trusted
 
+. . .
+
+- introduction strategy
+    - timing is the essence
+        - early, and not late introductions 
+        - if not possible, small and frequent introductions perform best by far  
+    - SIT most efficient in a preventive context
+
+## Perspectives 
+
+- quantify basins of attraction in the bistable cases
+
+
+
+- account for multiple female matings in the model
+
+. . .
+
+- provide mathematical grounds for the results on $T$ / introduction strategies 
 
 . . . 
 
-- Do you wonder what happens if *sterile* males are not *that sterile* ?
+- adress complementary questions of biological interest, *e.g.*
+    - what happens if *sterile* males are not *that sterile*?
 
-- Marine will show you more on wednesday morning
+
+<p style="text-align: center;margin-top: 1.1cm"> 
+Marine Courtois will give insights on this topic wednesday at 11 AM
+</p>
+
 
 ## Thank you
 
