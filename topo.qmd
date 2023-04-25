@@ -430,7 +430,7 @@ $$
 
 ```{julia}
 #| output: true
-plot(Lplot, [Lpar (0 .*Lplot.+8*10^4) (0 .*Lplot.+5*10^4)],
+plot(Lplot, [Lpar (0 .*Lplot.+5*10^4)],
         linewidth = 2,
         title = "Equilibria computation\n ",
         legend = false,
@@ -1029,7 +1029,7 @@ plot(alpharange, [maxLT2[:, i] for i in 1:ncol(maxLT2)],
 
 . . . 
 
-- adress complementary questions of biological interest, *e.g.*
+- address complementary questions of biological interest, *e.g.*
     - what happens if *sterile* males are not *that sterile*?
 
 
