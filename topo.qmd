@@ -1050,3 +1050,16 @@ Marine Courtois will give insights on this topic wednesday at 11 AM
 . . . 
 
 ![](figs/waldohere.svg){.absolute left=50 top=150 width=850}
+
+. . .
+
+
+<br><br><br><br><br>
+<br><br><br><br><br>
+Acknowledgements
+
+- Ecophyto Ceratis Corse
+- ANR Suzukiiss:me
+
+![](/figs/logo_ecophyto.png){.absolute right=200 top=420 height=120}
+![](/figs/anr.png){.absolute right=100 top=500 height=100}
